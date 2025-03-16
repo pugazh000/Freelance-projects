@@ -10,6 +10,6 @@ I will be uploading my own short term project
 5)real time object detection using YOLO\
 6)Real-Time Book cover Recognition\
 7)password generator\
-8)awslex chatbot\
+8)awslex chatbot
 
 
