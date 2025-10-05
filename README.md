@@ -11,6 +11,6 @@ I will be uploading my own short term project
 6)Real-Time Book cover Recognition\
 7)password generator\
 8)awslex chatbot\
-9)resume Checker
+9)resume Checker\
 10)LegalAI
 
