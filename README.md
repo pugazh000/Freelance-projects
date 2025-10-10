@@ -12,5 +12,5 @@ I will be uploading my own short term project
 7)password generator\
 8)awslex chatbot\
 9)resume Checker\
-10)LegalAI
-11)CRYPTODASH
+10)LegalAI\
+11)CRYPTODASH\
